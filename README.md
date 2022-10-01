@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Alain25246
-- 👀 I’m interested in 
+- 👋 Hi, I'm Alain
+- 👀 I’m interested in Esports
 - 🌱 I’m currently learning Bachelor of Science in Esports Major in Esports Management.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Call of Duty Mobile
+- 📫 How to reach me: linkedin.com/in/alain25246/
 
 <!---
 Alain25246/Alain25246 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
