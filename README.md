@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Alain
 - 👀 I’m interested in Esports
-- 🌱 I’m currently learning Bachelor of Science in Esports Major in Esports Management.
+- 🌱 I’m currently taking up Bachelor of Science in Esports Major in Esports Management.
 - 💞️ I’m looking to collaborate on Call of Duty Mobile
 - 📫 How to reach me: linkedin.com/in/alain25246/
 
